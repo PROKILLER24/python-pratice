@@ -1,1 +1,1 @@
-# python-praticeghg
+# python-pratice
